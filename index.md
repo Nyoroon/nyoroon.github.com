@@ -3,4 +3,5 @@ layout: default
 title: Nyoro~n
 ---
 
-* [wishlist](wishlist.html) { class="breadcrumb" }
+{ class="breadcrumb" }
+* [wishlist](wishlist.html) 
