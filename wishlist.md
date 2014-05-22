@@ -38,7 +38,7 @@
 12. Senran Kagura
 13. _Dead Nation_ (?)
 
-Is nice too:
+#### Is nice too:
 1. Jet Set Radio
 2. Sumioni
 3. Dokuro
