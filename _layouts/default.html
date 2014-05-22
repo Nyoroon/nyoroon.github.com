@@ -18,7 +18,7 @@
     <hr>
     <div class="list-group col-md-6 col-md-offset-3 text-center">
         {% for post in site.posts %}
-        <div class="list-group-item"><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
+        <div class="list-group-item"><h4><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></h4></div>
         {% endfor %}
     </div>
 </div>
