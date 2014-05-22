@@ -23,6 +23,9 @@ html,body {
 a {
   text-decoration: underline !important;
 }
+a:hover {
+  color: #B24F6B;
+}
 
 h1 {
   font-family: Arial,sans-serif
