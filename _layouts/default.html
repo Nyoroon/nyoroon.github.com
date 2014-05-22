@@ -20,7 +20,7 @@
         <div class="panel-heading">Blog</div>
         <ul class="list-group">
         {% for post in site.posts %}
-        <li class="well list-group-item"><h6><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></h6></li>
+        <li class="well list-group-item"><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </div>
