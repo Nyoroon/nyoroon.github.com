@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-  </head>
-  <body>
-  <div class="col-md-6 col-md-offset-3 text-center">
-  <a href="/"><img alt="Churuya" src="/img/nyoroon.jpg" /></a>
-  </div>
-  <div class="text-left v-center col-md-6 col-md-offset-3 well">
-  {{ content }}
-  </div>
-    <hr>
-    <div class="list-group col-md-6 col-md-offset-3 text-center">
-        {% for post in site.posts %}
-        <div class="list-group-item"><h4><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></h4></div>
-        {% endfor %}
-    </div>
-</div>
-  </body>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="style.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="col-md-6 col-md-offset-3 text-center">
+          <a href="/"><img alt="Churuya" src="/img/nyoroon.jpg" /></a><br />
+          <h1>Nyoro~n</h1>
+        </div>
+        <div class="text-left v-center col-md-6 col-md-offset-3 well">
+            {{ content }}
+        </div>
+        <hr>
+        <div class="list-group col-md-6 col-md-offset-3 text-center">
+            {% for post in site.posts %}
+            <div class="list-group-item"><h4><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></h4></div>
+            {% endfor %}
+        </div>
+    </body>
 </html>
