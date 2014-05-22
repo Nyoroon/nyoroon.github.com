@@ -10,10 +10,12 @@ $.getJSON(gitweb + "pages", function(data) {
         //$.getJSON(gitweb + "pages/" + file, function(page_content) {
         //    console.log(page_content);
         //});
-        main.append($("<h1>Pages</h1>"));
+        pages_div = $("<div id='pages'>");
+        pages_div.append($("<h1>Pages</h1>"));
         for(var page in pages) {
-            main.append($("<li>" + page + "</li>"))
+            pages_div.append($("<li>" + page + "</li>"))
         }
+        main.append(pages_div);
     }
 });
 
