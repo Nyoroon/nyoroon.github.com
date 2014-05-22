@@ -8,7 +8,7 @@ title: Nyoro~n
 {:.breadcrumb}
 
 <hr>
-<h1>Blog</h1>
+<h2>Blog</h2>
 <div class="list-group">
     {% for post in site.posts %}
     <div class="list-group-item"><h4><small>{{ post.date | date_to_string }}</small>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></h4></div>
