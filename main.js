@@ -4,7 +4,7 @@ $.getJSON(gitweb + "pages", function(data) {
     pages = [];
     for(var i in data) {
         file = data[i];
-        console.log(str.substr(0, str.length - 3))
+        console.log(file.substr(0, file.length - 3))
         //$.getJSON(gitweb + "pages/" + file, function(page_content) {
         //    console.log(page_content);
         //});
