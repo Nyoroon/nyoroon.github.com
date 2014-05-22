@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Games
 ## PlayStation 3:
 1. Dragon's Crown
