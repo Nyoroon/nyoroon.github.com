@@ -5,12 +5,12 @@ layout: default
 # Games
 
 ## PlayStation 3:
-1. Dragon's Crown
-2. Catherine
-3. Journey
+1. **Dragon's Crown**
+2. **Catherine**
+3. **Journey**
 4. Atelier, Dusk series (Ayesha, Escha)
-5. Final Fantasy (X, XIII, ~~XII-2~~, LR:FFXII)
-6. Tales of (~~Graces f~~, ~~Xillia~~, Xillia 2, Symphonia)
+5. Final Fantasy (X, XIII, <del>XII-2</del>, LR:FFXII)
+6. Tales of (<del>Graces f</del>, <del>Xillia</del>, Xillia 2, Symphonia)
 7. Heavenly Sword
 8. Castlevania: Lords of Shadow
 9. Star Ocean: Last Hope
@@ -30,7 +30,7 @@ layout: default
 
 ## PlayStation Vita:
 1. **Tales of** (Hearts R)
-2. **Altelier** (Rorona, ~~Totori~~, Meruru)
+2. **Altelier** (Rorona, <del>Totori</del>, Meruru)
 3. **Child of Light**
 4. Persona 4: Golden
 5. Ys: Memories of Celceta
