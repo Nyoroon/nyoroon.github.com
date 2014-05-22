@@ -3,7 +3,7 @@
   width: 100%;
   min-height: 100%;
   background-color: #57875D;
-  color: #E8B20C;
+  color: #eee;
   overflow: hidden;
 }
 
@@ -22,10 +22,10 @@ html,body {
 
 h1 {
   font-family: Arial,sans-serif
-  font-size:80px;
-  color:#DDCCEE;
+  font-size: 80px;
+  color: #E8B20C;
 }
 
 .lead {
-    color: #E8B20C;
+    color: #eee;
 }
