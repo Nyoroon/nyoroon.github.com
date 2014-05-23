@@ -12,5 +12,5 @@ title: Nyoro~n
 ### Posts:
 
 {% for post in site.posts %}
-<li><span>{{ post.date | date_to_string }}</span> &#9055; <a href="{{ post.url }}">{{ post.title }}</a></li>
+<span>{{ post.date | date_to_string }}</span> &#9055; <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
