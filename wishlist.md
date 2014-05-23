@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: blank
+title: Nyoro~n no Wishlist
 ---
 
 # Games
