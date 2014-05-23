@@ -3,7 +3,7 @@ layout: blank
 title: hello, world!
 ---
 
-# {{ page.title }}
+### {{ page.title }}
 
 Text
 text
