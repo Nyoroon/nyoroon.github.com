@@ -3,6 +3,13 @@ layout: blank
 title: Nyoro~n no Wishlist
 ---
 
+# TRH
+1. TRH
+2. Cuddles
+3. Hold hands
+
+or
+
 # Games
 
 ## PlayStation 3:
