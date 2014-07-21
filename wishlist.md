@@ -6,7 +6,7 @@ title: Nyoro~n no Wishlist
 # Games
 
 ## PlayStation 3:
-3. **Journey**
+3. Journey
 4. Atelier, Dusk series (Ayesha, Escha)
 5. Final Fantasy (X, XIII, <del>XII-2</del>, LR:FFXII)
 6. Tales of (<del>Graces f</del>, <del>Xillia</del>, Xillia 2, Symphonia)
