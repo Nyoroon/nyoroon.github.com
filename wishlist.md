@@ -6,8 +6,6 @@ title: Nyoro~n no Wishlist
 # Games
 
 ## PlayStation 3:
-1. **Dragon's Crown**
-2. **Catherine**
 3. **Journey**
 4. Atelier, Dusk series (Ayesha, Escha)
 5. Final Fantasy (X, XIII, <del>XII-2</del>, LR:FFXII)
@@ -33,7 +31,6 @@ title: Nyoro~n no Wishlist
 1. **Tales of** (Hearts R)
 2. **Altelier** (Rorona, <del>Totori</del>, Meruru)
 3. **Child of Light**
-4. Persona 4: Golden
 5. Ys: Memories of Celceta
 6. Disgaea
 7. Rayman Legends
