@@ -19,7 +19,6 @@ title: Nyoro~n no Wishlist
 14. Infamous (1, 2, FoB)
 15. God Of War (Saga, Ascension)
 16. Heavy Rain
-17. Grand Theft Auto V
 18. No More Heroes: Heroes' Paradise
 19. Killer Is Dead
 21. _Sengoku Basara, Dynasty Warriors_ (?)
