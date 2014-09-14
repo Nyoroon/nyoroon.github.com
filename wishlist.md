@@ -3,6 +3,9 @@ layout: blank
 title: Nyoro~n no Wishlist
 ---
 
+# IRL
+1. Cuddles. A lot.
+
 # Games
 
 ## PlayStation 3:
