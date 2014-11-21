@@ -13,6 +13,7 @@ title: Nyoro~n no Wishlist
 2. Final Fantasy (XIII, <del>XII-2</del>, LR:FFXII)
 3. Tales of (<del>Graces f</del>, <del>Xillia</del>, Xillia 2, Symphonia)
 4. Drakengard 3
+5. Ar nosurge
 5. Eternal Sonata
 6. Resonance of Fate
 7. Heavenly Sword
