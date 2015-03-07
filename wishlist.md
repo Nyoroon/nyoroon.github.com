@@ -32,16 +32,14 @@ title: Nyoro~n no Wishlist
 
 
 ## PlayStation Vita:
+0. More weeaboo shit
 1. **Tales of** (<del>Hearts R</del>)
 2. **Sword Art Online**
 2. **Atelier** (Rorona, <del>Totori</del>, Meruru)
 3. Final Fantasy X/X-2
 3. Senran Kagura Shinovi Versus
-5. Ys: Memories of Celceta
 7. Rayman Legends
 9. Ragnarok Odyssey Ace
-8. Zero Escape: Virtue's Last Reward
-10. Conception II
 11. Akiba's Trip
 13. _Dead Nation_ (?)
 
@@ -50,3 +48,6 @@ title: Nyoro~n no Wishlist
 2. Sumioni
 3. Dokuro
 4. Sine Mora
+
+## 3DS
+1. Gateway
