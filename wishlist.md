@@ -6,7 +6,7 @@ title: Nyoro~n no Wishlist
 # IRL
 1. Cuddles. A lot.
 
-# G&aelig;mes
+# G&aelig;ms
 
 ## PlayStation 3:
 1. Atelier, Dusk series (Ayesha, Escha, Shallie)
