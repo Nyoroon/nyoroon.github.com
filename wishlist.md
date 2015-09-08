@@ -19,7 +19,6 @@ title: Nyoro~n no Wishlist
 10. Folklore
 12. Nier
 13. Time and Eternity
-15. God Of War (Saga, Ascension)
 16. Heavy Rain
 18. No More Heroes: Heroes' Paradise
 19. Killer Is Dead
@@ -34,7 +33,7 @@ title: Nyoro~n no Wishlist
 9. Ragnarok Odyssey Ace
 11. Akiba's Trip
 
-#### Is nice too:
+#### Digital only:
 1. Jet Set Radio
 2. Sumioni
 3. Dokuro
